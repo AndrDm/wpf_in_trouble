@@ -1,0 +1,13 @@
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\uImage.Display\bin\Release\uImage.Display.dll
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\uImage.Display\bin\Release\uImage.Display.pdb
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\uImage.Display\obj\Release\uImage.Display.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\uImage.Display\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\uImage.Display\obj\Release\uImage.Display_MarkupCompile.cache
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\uImage.Display\obj\Release\uImage.Display_MarkupCompile.lref
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\uImage.Display\obj\Release\Themes\Generic.baml
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\uImage.Display\obj\Release\uImage.Display.g.resources
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\uImage.Display\obj\Release\uImage.Display.Properties.Resources.resources
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\uImage.Display\obj\Release\uImage.Display.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\uImage.Display\obj\Release\uImage.Display.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\uImage.Display\obj\Release\uImage.Display.dll
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\uImage.Display\obj\Release\uImage.Display.pdb

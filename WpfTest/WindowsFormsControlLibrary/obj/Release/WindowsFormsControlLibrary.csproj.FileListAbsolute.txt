@@ -11,3 +11,6 @@ C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\obj\Re
 C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\obj\Release\WindowsF.E371E5FC.Up2Date
 C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\obj\Release\WindowsFormsControlLibrary.dll
 C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\obj\Release\WindowsFormsControlLibrary.pdb
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\obj\Release\WindowsFormsControlLibrary.UserControl2.resources
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\bin\Release\uImage.Display.dll
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\bin\Release\uImage.Display.pdb

@@ -10,7 +10,7 @@
 				       BorderBrush="{TemplateBinding BorderBrush}" 
 					   BorderThickness="{TemplateBinding BorderThickness}">
 					</Border> -->
-					<Border BorderBrush="Blue" BorderThickness="4"/>
+					<Border BorderBrush="Green" BorderThickness="4"/>
 				</ControlTemplate>
             </Setter.Value>
         </Setter>

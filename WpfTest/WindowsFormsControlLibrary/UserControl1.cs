@@ -16,5 +16,10 @@ namespace WindowsFormsControlLibrary
         {
             InitializeComponent();
         }
-    }
+
+		private void elementHost1_ChildChanged(object sender, System.Windows.Forms.Integration.ChildChangedEventArgs e)
+		{
+
+		}
+	}
 }

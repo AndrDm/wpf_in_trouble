@@ -4,14 +4,16 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp"
-        xmlns:WpfCustomControlLibrary="clr-namespace:WpfCustomControlLibrary;assembly=WpfCustomControlLibrary" xmlns:WpfControlLibrary="clr-namespace:WpfControlLibrary;assembly=WpfControlLibrary" x:Class="WpfApp.MainWindow"
+        xmlns:WpfCustomControlLibrary="clr-namespace:WpfCustomControlLibrary;assembly=WpfCustomControlLibrary" xmlns:WpfControlLibrary="clr-namespace:WpfControlLibrary;assembly=WpfControlLibrary" xmlns:Display="clr-namespace:uImage.Display;assembly=uImage.Display" x:Class="WpfApp.MainWindow"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
 	<Grid>
 
 		<WpfCustomControlLibrary:CustomControl1 HorizontalAlignment="Left" Margin="133,36,0,0" VerticalAlignment="Top" Height="131" Width="550"/>
 
-		<WpfControlLibrary:UserControl1 HorizontalAlignment="Left" Margin="133,196,0,0" VerticalAlignment="Top" Width="508" Height="206"/>
+		<WpfControlLibrary:UserControl1 HorizontalAlignment="Left" Margin="49,192,0,0" VerticalAlignment="Top" Width="508" Height="206"/>
+
+		<Display:ImageControl HorizontalAlignment="Left" Margin="530,217,0,0" VerticalAlignment="Top" Height="156" Width="153"/>
 
 	</Grid>
 </Window>

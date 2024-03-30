@@ -36,9 +36,10 @@
 			// 
 			this.elementHost1.Location = new System.Drawing.Point(40, 24);
 			this.elementHost1.Name = "elementHost1";
-			this.elementHost1.Size = new System.Drawing.Size(478, 234);
+			this.elementHost1.Size = new System.Drawing.Size(489, 234);
 			this.elementHost1.TabIndex = 0;
 			this.elementHost1.Text = "elementHost1";
+			this.elementHost1.ChildChanged += new System.EventHandler<System.Windows.Forms.Integration.ChildChangedEventArgs>(this.elementHost1_ChildChanged);
 			this.elementHost1.Child = this.userControl11;
 			// 
 			// UserControl1

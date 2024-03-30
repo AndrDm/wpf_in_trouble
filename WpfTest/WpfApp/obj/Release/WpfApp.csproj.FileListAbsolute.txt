@@ -20,3 +20,5 @@ C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WpfApp\obj\Release\WpfApp.csproj.
 C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WpfApp\obj\Release\WpfApp.csproj.Up2Date
 C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WpfApp\obj\Release\WpfApp.exe
 C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WpfApp\obj\Release\WpfApp.pdb
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WpfApp\bin\Release\uImage.Display.dll
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WpfApp\bin\Release\uImage.Display.pdb

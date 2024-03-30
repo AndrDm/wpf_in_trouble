@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp", "WpfApp\WpfApp.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp", "WindowsFormsApp\WindowsFormsApp.csproj", "{BA17E35B-1CA4-4774-ABCE-B60EE240BA68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uImage.Display", "uImage.Display\uImage.Display.csproj", "{3D265D4F-108A-4493-BA85-C32CAA1DEDC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BA17E35B-1CA4-4774-ABCE-B60EE240BA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA17E35B-1CA4-4774-ABCE-B60EE240BA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA17E35B-1CA4-4774-ABCE-B60EE240BA68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D265D4F-108A-4493-BA85-C32CAA1DEDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D265D4F-108A-4493-BA85-C32CAA1DEDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D265D4F-108A-4493-BA85-C32CAA1DEDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D265D4F-108A-4493-BA85-C32CAA1DEDC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

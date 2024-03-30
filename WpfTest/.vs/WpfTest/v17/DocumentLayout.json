@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DDF5B34C-DC9D-4599-8CAE-62F8E94C8C16}|WindowsFormsControlLibrary\\WindowsFormsControlLibrary.csproj|c:\\users\\andrey\\desktop\\wpf_in_trouble\\wpftest\\windowsformscontrollibrary\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDF5B34C-DC9D-4599-8CAE-62F8E94C8C16}|WindowsFormsControlLibrary\\WindowsFormsControlLibrary.csproj|solutionrelative:windowsformscontrollibrary\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF5B34C-DC9D-4599-8CAE-62F8E94C8C16}|WindowsFormsControlLibrary\\WindowsFormsControlLibrary.csproj|c:\\users\\andrey\\desktop\\wpf_in_trouble\\wpftest\\windowsformscontrollibrary\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF5B34C-DC9D-4599-8CAE-62F8E94C8C16}|WindowsFormsControlLibrary\\WindowsFormsControlLibrary.csproj|solutionrelative:windowsformscontrollibrary\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DDF5B34C-DC9D-4599-8CAE-62F8E94C8C16}|WindowsFormsControlLibrary\\WindowsFormsControlLibrary.csproj|C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\windowsformscontrollibrary\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DDF5B34C-DC9D-4599-8CAE-62F8E94C8C16}|WindowsFormsControlLibrary\\WindowsFormsControlLibrary.csproj|solutionrelative:windowsformscontrollibrary\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57A7C90B-3CA9-4465-9E91-BE55183761BC}|WpfCustomControlLibrary\\WpfCustomControlLibrary.csproj|C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\wpfcustomcontrollibrary\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{DDF5B34C-DC9D-4599-8CAE-62F8E94C8C16}|WindowsFormsControlLibrary\\WindowsFormsControlLibrary.csproj|c:\\users\\andrey\\desktop\\wpf_in_trouble\\wpftest\\windowsformscontrollibrary\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF5B34C-DC9D-4599-8CAE-62F8E94C8C16}|WindowsFormsControlLibrary\\WindowsFormsControlLibrary.csproj|solutionrelative:windowsformscontrollibrary\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D1C11C-EE74-4465-A3EB-6B570B6EAE2A}|WpfControlLibrary\\WpfControlLibrary.csproj|c:\\users\\andrey\\desktop\\wpf_in_trouble\\wpftest\\wpfcontrollibrary\\usercontrol3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23D1C11C-EE74-4465-A3EB-6B570B6EAE2A}|WpfControlLibrary\\WpfControlLibrary.csproj|solutionrelative:wpfcontrollibrary\\usercontrol3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26AF663-2CD5-4ED4-A6BF-15D36B10298B}|WpfApp\\WpfApp.csproj|C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D26AF663-2CD5-4ED4-A6BF-15D36B10298B}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D265D4F-108A-4493-BA85-C32CAA1DEDC3}|uImage.Display\\uImage.Display.csproj|c:\\users\\andrey\\desktop\\wpf_in_trouble\\wpftest\\uimage.display\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D265D4F-108A-4493-BA85-C32CAA1DEDC3}|uImage.Display\\uImage.Display.csproj|solutionrelative:uimage.display\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D265D4F-108A-4493-BA85-C32CAA1DEDC3}|uImage.Display\\uImage.Display.csproj|c:\\users\\andrey\\desktop\\wpf_in_trouble\\wpftest\\uimage.display\\imagecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D265D4F-108A-4493-BA85-C32CAA1DEDC3}|uImage.Display\\uImage.Display.csproj|solutionrelative:uimage.display\\imagecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A7C90B-3CA9-4465-9E91-BE55183761BC}|WpfCustomControlLibrary\\WpfCustomControlLibrary.csproj|c:\\users\\andrey\\desktop\\wpf_in_trouble\\wpftest\\wpfcustomcontrollibrary\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{57A7C90B-3CA9-4465-9E91-BE55183761BC}|WpfCustomControlLibrary\\WpfCustomControlLibrary.csproj|solutionrelative:wpfcustomcontrollibrary\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D26AF663-2CD5-4ED4-A6BF-15D36B10298B}|WpfApp\\WpfApp.csproj|c:\\users\\andrey\\desktop\\wpf_in_trouble\\wpftest\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D26AF663-2CD5-4ED4-A6BF-15D36B10298B}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WpfCustomControlLibrary||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WpfControlLibrary||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsFormsControlLibrary||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsFormsApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23D1C11C-EE74-4465-A3EB-6B570B6EAE2A}|WpfControlLibrary\\WpfControlLibrary.csproj|C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\wpfcontrollibrary\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -50,81 +86,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfApp\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfApp\\MainWindow.xaml",
-              "RelativeToolTip": "WpfApp\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-30T05:48:26.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WindowsFormsApp\\Form1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WindowsFormsApp\\Form1.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T05:50:13.835Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Generic.xaml",
-              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfCustomControlLibrary\\Themes\\Generic.xaml",
-              "RelativeDocumentMoniker": "WpfCustomControlLibrary\\Themes\\Generic.xaml",
-              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfCustomControlLibrary\\Themes\\Generic.xaml",
-              "RelativeToolTip": "WpfCustomControlLibrary\\Themes\\Generic.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-30T05:29:39.244Z",
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WindowsFormsControlLibrary\\UserControl1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsControlLibrary\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WindowsFormsControlLibrary\\UserControl1.cs",
+              "RelativeToolTip": "WindowsFormsControlLibrary\\UserControl1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:05:01.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserControl1.xaml",
-              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfControlLibrary\\UserControl1.xaml",
-              "RelativeDocumentMoniker": "WpfControlLibrary\\UserControl1.xaml",
-              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfControlLibrary\\UserControl1.xaml",
-              "RelativeToolTip": "WpfControlLibrary\\UserControl1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-30T05:25:37.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserControl1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfControlLibrary\\UserControl1.xaml.cs",
-              "RelativeDocumentMoniker": "WpfControlLibrary\\UserControl1.xaml.cs",
-              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfControlLibrary\\UserControl1.xaml.cs",
-              "RelativeToolTip": "WpfControlLibrary\\UserControl1.xaml.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABgAAAAiAAAA",
+              "Title": "UserControl2.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WindowsFormsControlLibrary\\UserControl2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsControlLibrary\\UserControl2.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WindowsFormsControlLibrary\\UserControl2.cs",
+              "RelativeToolTip": "WindowsFormsControlLibrary\\UserControl2.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T05:25:35.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomControl1.cs",
-              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfCustomControlLibrary\\CustomControl1.cs",
-              "RelativeDocumentMoniker": "WpfCustomControlLibrary\\CustomControl1.cs",
-              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfCustomControlLibrary\\CustomControl1.cs",
-              "RelativeToolTip": "WpfCustomControlLibrary\\CustomControl1.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T05:26:14.194Z"
+              "WhenOpened": "2024-03-30T14:04:54.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserControl2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WindowsFormsControlLibrary\\UserControl2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsControlLibrary\\UserControl2.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WindowsFormsControlLibrary\\UserControl2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsControlLibrary\\UserControl2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:03:51.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControl3.xaml",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfControlLibrary\\UserControl3.xaml",
+              "RelativeDocumentMoniker": "WpfControlLibrary\\UserControl3.xaml",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfControlLibrary\\UserControl3.xaml",
+              "RelativeToolTip": "WpfControlLibrary\\UserControl3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-30T14:00:18.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\uImage.Display\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "uImage.Display\\Themes\\Generic.xaml",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\uImage.Display\\Themes\\Generic.xaml",
+              "RelativeToolTip": "uImage.Display\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-30T13:52:14.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageControl.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\uImage.Display\\ImageControl.cs",
+              "RelativeDocumentMoniker": "uImage.Display\\ImageControl.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\uImage.Display\\ImageControl.cs",
+              "RelativeToolTip": "uImage.Display\\ImageControl.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAnwC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:51:51.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WpfCustomControlLibrary",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfCustomControlLibrary\\WpfCustomControlLibrary.csproj",
+              "RelativeDocumentMoniker": "WpfCustomControlLibrary\\WpfCustomControlLibrary.csproj",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfCustomControlLibrary\\WpfCustomControlLibrary.csproj",
+              "RelativeToolTip": "WpfCustomControlLibrary\\WpfCustomControlLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-30T12:44:37.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WpfControlLibrary",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfControlLibrary\\WpfControlLibrary.csproj",
+              "RelativeDocumentMoniker": "WpfControlLibrary\\WpfControlLibrary.csproj",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfControlLibrary\\WpfControlLibrary.csproj",
+              "RelativeToolTip": "WpfControlLibrary\\WpfControlLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-30T12:36:27.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WindowsFormsControlLibrary",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WindowsFormsControlLibrary\\WindowsFormsControlLibrary.csproj",
+              "RelativeDocumentMoniker": "WindowsFormsControlLibrary\\WindowsFormsControlLibrary.csproj",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WindowsFormsControlLibrary\\WindowsFormsControlLibrary.csproj",
+              "RelativeToolTip": "WindowsFormsControlLibrary\\WindowsFormsControlLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-30T12:31:22.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WindowsFormsApp",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WindowsFormsApp\\WindowsFormsApp.csproj",
+              "RelativeDocumentMoniker": "WindowsFormsApp\\WindowsFormsApp.csproj",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WindowsFormsApp\\WindowsFormsApp.csproj",
+              "RelativeToolTip": "WindowsFormsApp\\WindowsFormsApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-30T12:31:08.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserControl1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WindowsFormsControlLibrary\\UserControl1.cs",
               "RelativeDocumentMoniker": "WindowsFormsControlLibrary\\UserControl1.cs",
@@ -136,7 +225,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-30T05:48:26.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WindowsFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T05:50:13.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfCustomControlLibrary\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "WpfCustomControlLibrary\\Themes\\Generic.xaml",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfCustomControlLibrary\\Themes\\Generic.xaml",
+              "RelativeToolTip": "WpfCustomControlLibrary\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-30T05:29:39.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserControl1.xaml",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfControlLibrary\\UserControl1.xaml",
+              "RelativeDocumentMoniker": "WpfControlLibrary\\UserControl1.xaml",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfControlLibrary\\UserControl1.xaml",
+              "RelativeToolTip": "WpfControlLibrary\\UserControl1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-30T05:25:37.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfControlLibrary\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "WpfControlLibrary\\UserControl1.xaml.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfControlLibrary\\UserControl1.xaml.cs",
+              "RelativeToolTip": "WpfControlLibrary\\UserControl1.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T05:25:35.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomControl1.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfCustomControlLibrary\\CustomControl1.cs",
+              "RelativeDocumentMoniker": "WpfCustomControlLibrary\\CustomControl1.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfCustomControlLibrary\\CustomControl1.cs",
+              "RelativeToolTip": "WpfCustomControlLibrary\\CustomControl1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T05:26:14.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "UserControl2.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfControlLibrary\\UserControl2.xaml.cs",
               "RelativeDocumentMoniker": "WpfControlLibrary\\UserControl2.xaml.cs",
@@ -147,12 +306,8 @@
               "WhenOpened": "2024-03-30T05:59:20.43Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml.cs",
@@ -164,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "UserControl2.xaml",
               "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\wpf_in_trouble\\WpfTest\\WpfControlLibrary\\UserControl2.xaml",
               "RelativeDocumentMoniker": "WpfControlLibrary\\UserControl2.xaml",
