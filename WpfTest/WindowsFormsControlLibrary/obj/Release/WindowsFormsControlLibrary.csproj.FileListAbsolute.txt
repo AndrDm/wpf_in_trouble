@@ -1,0 +1,13 @@
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\bin\Release\WindowsFormsControlLibrary.dll
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\bin\Release\WindowsFormsControlLibrary.pdb
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\bin\Release\WpfControlLibrary.dll
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\bin\Release\WpfControlLibrary.pdb
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\obj\Release\WindowsFormsControlLibrary.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\obj\Release\WindowsFormsControlLibrary.UserControl1.resources
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\obj\Release\WindowsFormsControlLibrary.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\obj\Release\WindowsFormsControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\obj\Release\WindowsF.E371E5FC.Up2Date
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\obj\Release\WindowsFormsControlLibrary.dll
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\obj\Release\WindowsFormsControlLibrary.pdb
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\bin\Release\WpfCustomControlLibrary.dll
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsControlLibrary\bin\Release\WpfCustomControlLibrary.pdb

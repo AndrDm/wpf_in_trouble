@@ -1,0 +1,17 @@
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\bin\Release\WindowsFormsApp.exe.config
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\bin\Release\WindowsFormsApp.exe
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\bin\Release\WindowsFormsApp.pdb
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\bin\Release\WindowsFormsControlLibrary.dll
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\bin\Release\WpfControlLibrary.dll
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\bin\Release\WpfCustomControlLibrary.dll
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\bin\Release\WindowsFormsControlLibrary.pdb
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\bin\Release\WpfControlLibrary.pdb
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\bin\Release\WpfCustomControlLibrary.pdb
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\obj\Release\WindowsFormsApp.Form1.resources
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\obj\Release\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\obj\Release\WindowsF.5F5EF213.Up2Date
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\obj\Release\WindowsFormsApp.exe
+C:\Users\Andrey\Desktop\wpf_in_trouble\WpfTest\WindowsFormsApp\obj\Release\WindowsFormsApp.pdb
