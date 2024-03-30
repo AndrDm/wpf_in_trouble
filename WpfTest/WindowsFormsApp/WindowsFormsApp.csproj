@@ -80,6 +80,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\uImage.Display\uImage.Display.csproj">
+      <Project>{3d265d4f-108a-4493-ba85-c32caa1dedc3}</Project>
+      <Name>uImage.Display</Name>
+    </ProjectReference>
     <ProjectReference Include="..\WindowsFormsControlLibrary\WindowsFormsControlLibrary.csproj">
       <Project>{ddf5b34c-dc9d-4599-8cae-62f8e94c8c16}</Project>
       <Name>WindowsFormsControlLibrary</Name>
